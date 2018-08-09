@@ -1,7 +1,6 @@
 Natural language 
 =============
-Simple app convert any language (specified below) to emoji faces.
-API using Google Natural Sentiment API.
+Simple app convert any language (specified below) to emoji faces, using Google Natural Sentiment API.
 https://cloud.google.com/natural-language/
 
 Language & Tools
